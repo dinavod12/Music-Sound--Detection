@@ -1,4 +1,4 @@
-#First getting Data
+#First getting Single Data
 import librosa
 import matplotlib.pyplot as plt
 filename = "Desktop/Data/genres_original/blues/blues.00002.wav"
